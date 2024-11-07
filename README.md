@@ -2,6 +2,7 @@
 From: https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## BibTeX
+```sh
 @article{krizhevsky2009learning,
     title="Learning Multiple Layers of Features from Tiny Images",
     author="Alex {Krizhevsky}",
@@ -9,8 +10,10 @@ From: https://www.cs.toronto.edu/~kriz/cifar.html
     notes="Sourced from Microsoft Academic - https://academic.microsoft.com/paper/3118608800",
     year="2009"
 }
+```
  
 ## File Tree
+```txt
 dataset
 ├── train
 │   ├── class_001
@@ -32,6 +35,7 @@ dataset
     |    ├── 2.jpg
     |    └── ...
     └── ...
+```
 
 ## 国内下载
 
